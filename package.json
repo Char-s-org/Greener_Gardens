@@ -1,5 +1,5 @@
 {
-  "name": "blogging_app_ror",
+  "name": "greener_gardens",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
